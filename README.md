@@ -14,8 +14,19 @@ Atualmente com o foco, voltado para clean code / padrões de projetos
  [<img src="https://img.icons8.com/cute-clipart/36/000000/linkedin.png" alt="dev logo">](https://dev.to/atiladelcanton) 
 ----
    
-![Atila Delcanton  GitHub Stats](https://github-readme-stats.vercel.app/api?username=atiladelcanton&hide=[%22stars%22]&show_icons=true&theme=dracula) 
-![Atila Delcanton github stats](https://github-readme-stats.vercel.app/api?username=atiladelcanton&hide=contribs,prs&theme=dracula)
+# Contribuições.
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiladelcanton&hide=html&layout=compact&theme=cobalt" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=atiladelcanton&theme=cobalt" /></td>
+  </tr>  
+    <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=atiladelcanton&repo=ZenTicket&theme=cobalt" /></td>
+  </tr>  
+</table>
+</center>
+
 
 -------
 
