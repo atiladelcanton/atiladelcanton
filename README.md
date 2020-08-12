@@ -11,7 +11,7 @@ Atualmente com o foco, voltado para clean code / padrões de projetos
 - 💬 Pergunte-me sobre qualquer coisa. Vou tentar ajudá-lo o máximo que puder
 - ⚡ Citação: Nunca diga que não consegue sem nem ao menos falhar varias vezes.
 - 📫 Onde saber mais sobre min:
- [<img src="https://img.icons8.com/cute-clipart/36/000000/linkedin.png" alt="dev logo">](https://dev.to/atiladelcanton) 
+ [<img src="https://img.icons8.com/cute-clipart/36/000000/linkedin.png" alt="dev logo">](https://www.linkedin.com/in/atila-delcanton-rampazo) 
 ----
    
 # Contribuições.
