@@ -18,13 +18,12 @@ Atualmente com o foco, voltado para clean code / padrões de projetos
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/username=atiladelcanton&hide=html&layout=compact&theme=cobalt" /></td>
     <td>
-    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=atiladelcanton&theme=cobalt" /> 
+      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=atiladelcanton&theme=cobalt" /> 
    </td>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=atiladelcanton&repo=ZenTicket&theme=cobalt" /></td>
   </tr>  
     <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=atiladelcanton&repo=ZenTicket&theme=cobalt" /></td>
     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=atiladelcanton&repo=beer-vue-admin&theme=cobalt" /></td>
   </tr>  
 </table>
