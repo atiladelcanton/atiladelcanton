@@ -22,10 +22,7 @@ Atualmente com o foco, voltado para clean code / padrões de projetos
       <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=atiladelcanton&theme=cobalt" /> 
    </td>
     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=atiladelcanton&repo=ZenTicket&theme=cobalt" /></td>
-  </tr>  
-    <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=atiladelcanton&repo=beer-vue-admin&theme=cobalt" /></td>
-  </tr>  
+  </tr>   
 </table>
 </center>
 
